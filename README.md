@@ -122,6 +122,7 @@ Les principaux endpoints sont généralement disponibles sous un préfixe comme 
 *   `GET /api/produits/{id}` : Récupérer un produit spécifique par son ID.
 *   `PUT /api/produits/{id}` : Mettre à jour un produit existant.
 *   `DELETE /api/produits/{id}` : Supprimer un produit.
+*   `GET /api/v1/produits/ : Récupérer les produits avec un stock bas.
 
 Consultez la documentation Swagger UI (si disponible) pour des détails complets.
 
